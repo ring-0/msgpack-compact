@@ -89,5 +89,3 @@ public:
 } // end namespace mpcompact
 
 
-#endif
-
